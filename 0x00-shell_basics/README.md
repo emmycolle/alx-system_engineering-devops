@@ -1,3 +1,1 @@
-0-current_working_directory equals pwd
-
-
+pwd changes directory to 0x00-shellbasics
