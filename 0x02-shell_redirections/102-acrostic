@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 test/Acrostic | tr -d "\n" | sort
+cut -c 1 | paste -s -d "\n"
